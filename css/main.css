@@ -1,0 +1,15 @@
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hidden{
+    display: none;
+}
+
+htm,body {
+    height: 100%;
+}
+
+/** basics for reseting presets**/
